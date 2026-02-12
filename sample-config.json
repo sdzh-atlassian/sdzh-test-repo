@@ -1,0 +1,43 @@
+[
+  {
+    "name": "demo-python",
+    "title": "Python Demo",
+    "welcome_blurb": "This intro is tailored for a quick Python demo. We'll download a small repo and start exploring right away.",
+    "sample_repos": [
+      {
+        "name": "Click (Python CLI)",
+        "url": "https://github.com/pallets/click.git",
+        "description": "A small, well-known Python CLI library (great for exploring tests and docs)."
+      },
+      {
+        "name": "FastAPI",
+        "url": "https://github.com/tiangolo/fastapi.git",
+        "description": "A popular Python web framework (a bit larger, but very realistic)."
+      }
+    ]
+  },
+  {
+    "name": "demo-frontend",
+    "title": "Frontend Demo",
+    "welcome_blurb": "This intro is tailored for frontend workflows. We'll download a sample repo so you can ask Rovo Dev for UI changes and refactors.",
+    "sample_repos": [
+      {
+        "name": "Vite (React)",
+        "url": "https://github.com/vitejs/vite.git",
+        "description": "Modern frontend tooling; good for exploring TS/JS build setups."
+      }
+    ]
+  },
+  {
+    "name": "my-cool-event",
+    "title": "My Cool Event 26 Tokyo",
+    "welcome_blurb": "Welcome to My Cool Event 26 Tokyo!\n\nYou're about to ship faster! We'll walk through a quick setup, grab a sample repo, and then jump into a few fun tasks together.\n\nWorkshop instructions + agenda: https://example.com\n\nPro tip: if you get stuck, ask Rovo Dev to explain the codebase or suggest the next smallest change — it loves bite-sized wins.",
+    "sample_repos": [
+      {
+        "name": "Awesome Lists (fun + simple)",
+        "url": "https://github.com/sindresorhus/awesome.git",
+        "description": "A famous curated list repo — great for trying edits, search, and PR-style workflows without heavy setup."
+      }
+    ]
+  }
+]
